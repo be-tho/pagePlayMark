@@ -1,0 +1,72 @@
+[
+    {
+      "id": 0,
+      "titulo": "My Hero One's Justice 2",
+      "titulo-corto": "MHA II",
+      "genero": "lucha",
+      "descripcion": "MY HERO ONE’S JUSTICE 2 se basa en el exitoso anime MY HERO ACADEMIA e invita a los jugadores a formar un equipo de tres luchadores, a elegir entre un gran plantel de héroes y villanos. Una vez formado, tendrán que enfrentarse a los equipos rivales de otros jugadores (ya sea online u offline) o bien demostrar su habilidad combatiendo contra la máquina. ",
+      "precio": "6200",
+      "img": "img/juegos/0000.jpg",
+      "alt": "Boku no hero juego"
+    },
+    {
+      "id": 1,
+      "titulo": "The Last of Us - Part II",
+      "titulo-corto": "TLU II",
+      "genero": "Accion",
+      "descripcion": "Esta secuela de la premiada obra de Naughty Dog lanzada originalmente en 2013, promete una historia al nivel de sus personajes, de gran intensidad, desgarradora y emocional protagonizada por Ellie, aunque también hay partes jugables por Joel. Neil Druckmanne, principal guionista del estudio creador de la serie Uncharted, ya ha prometido que la historia de The Last of Us: Part II girará alrededor del odio, en contraposición a un juego original donde la temática principal era el amor.",
+      "precio": "7000",
+      "img": "img/juegos/0001.jpg",
+      "alt": "The Last of Us"
+    },
+    {
+      "id": 2,
+      "titulo": "Star Wars Jedi Fallen Order",
+      "titulo-corto": "Star Wars",
+      "genero": "Accion",
+      "descripcion": "Una nueva historia de Star Wars Eres uno de los últimos Jedi y debes hacer todo lo posible para sobrevivir. Termina tu entrenamiento antes de que los Inquisidores descubran tu plan para reconstruir la Orden Jedi. La galaxia te espera, Explora bosques antiguos, acantilados azotados por el viento y selvas embrujadas mientras decides cuándo y dónde quieres irte. ",
+      "precio": "6800",
+      "img": "img/juegos/0002.jpg",
+      "alt": "Jedi Fallen Order"
+    },
+    {
+      "id": 3,
+      "titulo": "Cyberpunk 2077",
+      "titulo-corto": "CP",
+      "genero": "accion aventura",
+      "descripcion": "Cyberpunk 2077 es una historia de acción y aventuras en mundo abierto ambientada en Night City, una megalópolis obsesionada con el poder, el glamur y la modificación corporal. Te pondrás en la piel de V, un mercenario que persigue un implante único: el secreto de la inmortalidad. Podrás personalizar las mejoras, las habilidades y el estilo del personaje mientras exploras una vasta ciudad en donde tus decisiones afectan la historia y el mundo que te rodea.",
+      "precio": "7400",
+      "img": "img/juegos/0003.jpg",
+      "alt": "Cyberpunk"
+    },
+    {
+      "id": 4,
+      "titulo": "Resident Evil 3",
+      "titulo-corto": "RE III",
+      "genero": "Accion Horror",
+      "descripcion": "En Resident Evil 3, Jill Valentine de S.T.A.R.S., una de las heroínas más emblemáticas de los videojuegos, huye de una ciudad consumida por zombies y otras criaturas horribles. Construido con el RE Engine patentado de Capcom, Resident Evil 3 utiliza un juego modernizado para combinar la acción con el clásico horror de supervivencia en vívida alta definición.",
+      "precio": "6800",
+      "img": "img/juegos/0004.jpg",
+      "alt": "Resident Evil 3"
+    },
+    {
+      "id": 5,
+      "titulo": "SWORD ART ONLINE Alicization Lycoris",
+      "titulo-corto": "SAO",
+      "genero": "RPG",
+      "descripcion": "Juega como el protagonista Kirito y sumérgete en \"Underworld\", un misterioso mundo virtual ambientado en el arco de Alicización del anime. Con intensa acción de batalla, impresionantes imágenes JRPG y un mundo expansivo para explorar; ¡tu viaje a través del último juego VRMMO SWORD ART ONLINE está listo para comenzar!.",
+      "precio": "6300",
+      "img": "img/juegos/0005.png",
+      "alt": "SAO"
+    },
+    {
+      "id": 6,
+      "titulo": "Super Mario Maker 2",
+      "titulo-corto": "Mario Maker",
+      "genero": "Accion",
+      "descripcion": "¡Rompe las reglas y crea los niveles de Super Mario con los que siempre has soñado en Super Mario Maker 2, disponible en exclusiva para Nintendo Switch! Utiliza el amplio abanico de nuevas herramientas, funciones y elementos de niveles, dale rienda suelta a tu imaginación y crea niveles únicos que podrás compartir con amigos y jugadores de todo el mundo. ",
+      "precio": "7000",
+      "img": "img/juegos/0006.jpg",
+      "alt": "Super Mario"
+    }
+]

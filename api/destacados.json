@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "titulo": "One Punch Man: A Hero nobody knows",
+    "titulo-corto": "OPM",
+    "consola": "PlayStation 4",
+    "genero": "Accion Lucha",
+    "descripcion": "Experimenta el mundo de One Punch Man por ti mismo en \"One Punch Man: ¡Un héroe que nadie conoce! \" ¡Forma un equipo con tus héroes y villanos favoritos, incrementa tus técnicas y descubre quién termina reinando en el juego One Punch Man!",
+    "precio": "6600",
+    "img": "img/juegos/1000.jpg",
+    "alt": "One Punch Man"
+  },
+  {
+    "id": 1,
+    "titulo": "Nioh 2",
+    "titulo-corto": "Nioh 2",
+    "consola": "PlayStation 4",
+    "genero": "Aventura",
+    "descripcion": "Domina el arte de los samurái en este cruento juego de rol estilo masocore...la muerte acecha. Viaja al Japón de 1555, un país sumido en una guerra sin fin: monstruos y espíritus malignos acechan y ponen en riesgo esta tierra de inmensa belleza natural. Ponte en la piel de un solitario mercenario y acaba con tus enemigos usando los poderes sobrenaturales de los míticos yokais.",
+    "precio": "5900",
+    "img": "img/juegos/1001.jpg",
+    "alt": "Nioh 2"
+  },
+  {
+    "id": 2,
+    "titulo": "Need for Speed Heat",
+    "titulo-corto": "NFS",
+    "consola": "Xbox One",
+    "genero": "Carreras",
+    "descripcion": "Need for Speed Heat transporta a los fanáticos a Palm City, un nuevo mundo abierto donde los corredores callejeros se han reunido para hacer saber sus nombres. Durante el día, los jugadores compiten en el Speedhunters Showdown, una competencia oficial en donde ganan dinero para personalizar y actualizar su garaje de autos de alto desempeño. ",
+    "precio": "6500",
+    "img": "img/juegos/1002.jpg",
+    "alt": "NFS"
+  },
+  {
+    "id": 3,
+    "titulo": "Call of Duty: Modern Warfare",
+    "titulo-corto": "COD",
+    "consola": "PlayStation 4",
+    "genero": "Accion",
+    "descripcion": "En Call of Duty: Modern Warfare, los jugadores serán empujados a una narrativa inmersiva que abarcará todo el juego. Los jugadores pueden experimentar el mejor playground en línea con el clásico multijugador o jugar de forma cooperativa en una colección de operaciones de élite, accesibles a todos los niveles de habilidad ",
+    "precio": "7000",
+    "img": "img/juegos/1003.jpg",
+    "alt": "Call of Duty"
+  }
+]
